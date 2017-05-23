@@ -10,8 +10,13 @@ with long exercises in the end. Each notebook should take about an hour to go th
 The Units are as follows:
 
 Unit 1: Python Basics for Data Science.
+
 Unit 2: Data Extraction and Manipulation.
+
 Unit 3: Data Visualization.(WIP)
+
 Unit 4: Introduction to Machine Learning.(WIP)
+
 Unit 5: Applied Machine Learning.(WIP)
+
 Unit 6: Advanced Machine Learning.(WIP)
