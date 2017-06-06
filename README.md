@@ -13,7 +13,7 @@ Unit 1: Python Basics for Data Science.
 
 Unit 2: Data Extraction and Manipulation.
 
-Unit 3: Data Visualization.(WIP)
+Unit 3: Data Visualization.
 
 Unit 4: Introduction to Machine Learning.(WIP)
 
