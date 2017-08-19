@@ -15,8 +15,8 @@ Unit 2: Data Extraction and Manipulation.
 
 Unit 3: Data Visualization.
 
-Unit 4: Introduction to Machine Learning.(WIP)
+Unit 4: Introduction to Machine Learning.
 
-Unit 5: Applied Machine Learning.(WIP)
+Unit 5: Applied Machine Learning.
 
 Unit 6: Advanced Machine Learning.(WIP)
