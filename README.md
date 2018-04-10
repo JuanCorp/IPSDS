@@ -1,6 +1,6 @@
 # IPSDS
 
-The Interactive Data Science Summary in Python (WIP). 
+The Interactive Data Science Summary in Python. 
 
 These are a series of notebooks dedicated to learning Data Science concepts. These are mostly dedicated to those with some kind of
 programming background, but anyone can start using them and start learning. These notebooks require Anaconda to be installed, so 
@@ -18,5 +18,3 @@ Unit 3: Data Visualization.
 Unit 4: Introduction to Machine Learning.
 
 Unit 5: Applied Machine Learning.
-
-Unit 6: Advanced Machine Learning.(WIP)
